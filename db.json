@@ -44,7 +44,7 @@
   },
   {
    "id": "6",
-   "image":"/images/Mt.Kenya.jpg",
+   "image":"https://i.pinimg.com/736x/a9/79/16/a979160aac122bc2c88f31d5af8966fc.jpg",
    "name": "Serena Mountain Lodge",
    "location":"Mount Kenya",
    "type": "Lodge",
@@ -75,7 +75,7 @@
  },
  {
    "id": "9",
-   "image": "https://i.pinimg.com/736x/82/df/f0/82dff08b776c6b1adf1d48729723b01d.jpg",
+   "image": "https://i.pinimg.com/736x/de/28/a2/de28a23f9fc6e48864adca6ec8da150f.jpg",
    "name":"Summit Expendition",
    "duration": "7 days",
    "destination": ["Mount Kenya"],
